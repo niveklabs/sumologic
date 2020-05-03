@@ -1,6 +1,6 @@
 terraform {
   required_providers {
-    sumologic = ">= 2.0.0"
+    sumologic = ">= 2.0.1"
   }
 }
 
